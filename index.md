@@ -4,10 +4,10 @@
 
 <span style="font-family: Verdana; color: black"> **Projects** </span>
 
-<span style="font-family: Trebuchet MS; color: black"> [Governor Cuomo Tweets Analysis] </span> (/sample_page)
+<span style="font-family: Geneva; color: black"> [Governor Cuomo Tweets Analysis] </span> (/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-<span style="font-family: Geneva; color: black"> In this project, I analyzed 10-days of tweets around New York Governor Cuomo. </span>
+<span style="font-family:Trebuchet MS; color: black"> In this project, I analyzed 10-days of tweets around New York Governor Cuomo. </span>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
