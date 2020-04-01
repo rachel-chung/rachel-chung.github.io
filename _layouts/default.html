@@ -13,7 +13,7 @@
       <header>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo"/>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -56,10 +56,14 @@
     <style>
       body {
         font-family: "Trebuchet MS";
-        font-size: 14px;
+        font-size: 16px;
         color: black;
       }
-
+      header {
+        width: 150px;
+        float: left;
+        position: fixed;
+      }
       #hello-im-rachel-chung-and-im-excited-to-snack {
         font-size: 18px;
       }
