@@ -1,5 +1,5 @@
 
-Hello! I'm Rachel Chung and I'm excited to snack.
+<p style="color:red;">Hello! I'm Rachel Chung and I'm excited to snack.</p>
 
  *Projects*
 
@@ -19,5 +19,5 @@ Data cleaning and management on 500-pages of a Byzantium history book.
 Merging data sets without unique IDs for a Byzantium history book.
 
 ---
-<p style="font-size:14px; font-style: Verdana">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:14px; font-family: Verdana">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
