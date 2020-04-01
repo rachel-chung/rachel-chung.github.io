@@ -1,7 +1,7 @@
 
-<p style="font-size:25px;">Hello! I'm Rachel Chung and I'm excited to <b> snack. <b> </p>
+<p style="font-size:25px;">Hello! I'm Rachel Chung and I'm excited to <b> snack. </b> </p>
 
- <p style="font-size:23px;"> <i> Projects  <i> </p>
+ <p style="font-size:23px;"> <i> Projects  </i> </p>
 
  <p style="font-size:23px;"> [Governor Cuomo Tweets Analysis](/Cuomo_Twitter) </p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
