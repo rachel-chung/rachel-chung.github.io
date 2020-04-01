@@ -1,14 +1,12 @@
 
-Hello! I'm Rachel Chung and I'm excited to snack.</span>
+Hello! I'm Rachel Chung and I'm excited to snack.
 ---
 
  **Projects**
-
 [Governor Cuomo Tweets Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-In this project, I analyzed 10-days of tweets around New York Governor Cuomo. </span>
----
+In this project, I analyzed 10-days of tweets around New York Governor Cuomo.
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
