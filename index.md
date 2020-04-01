@@ -1,13 +1,13 @@
 
-<span style="font-family: Helvetica; color: black"> Hello! I'm Rachel Chung and I'm excited to snack.</span>
+Hello! I'm Rachel Chung and I'm excited to snack.</span>
 ---
 
-<span style="font-family: Verdana; color: black"> **Projects** </span>
+ **Projects**
 
-<span style="font-family: Geneva; color: black"> [Governor Cuomo Tweets Analysis] </span> (/sample_page)
+[Governor Cuomo Tweets Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-<span style="font-family:Trebuchet MS; color: black"> In this project, I analyzed 10-days of tweets around New York Governor Cuomo. </span>
+In this project, I analyzed 10-days of tweets around New York Governor Cuomo. </span>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
