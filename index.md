@@ -1,4 +1,4 @@
-## Hello! I'm Rachel Chung and I'm excited to snack.
+<span style="font-family:Papyrus; font-size:4em;"> Hello! I'm Rachel Chung and I'm excited to snack.</span>
 
 ---
 
@@ -7,7 +7,7 @@
 [Governor Cuomo Tweets Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-In this project, I analyzed 10-days of tweets around New York Governor Cuomo. 
+In this project, I analyzed 10-days of tweets around New York Governor Cuomo.
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -32,5 +32,5 @@ In this project, I analyzed 10-days of tweets around New York Governor Cuomo.
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:14px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
