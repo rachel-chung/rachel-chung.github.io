@@ -1,8 +1,9 @@
-<span style="font-family:Papyrus; font-size:4em;"> Hello! I'm Rachel Chung and I'm excited to snack.</span>
+
+<span style="font-family:Comfortaa; font-size:14em;"> Hello! I'm Rachel Chung and I'm excited to snack.</span>
 
 ---
 
-### Governor Cuomo Tweets Analysis
+**Projects**
 
 [Governor Cuomo Tweets Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -18,13 +19,13 @@ In this project, I analyzed 10-days of tweets around New York Governor Cuomo.
 
 ---
 
-## Category Name 2
+[## Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)]
 
 ---
 
