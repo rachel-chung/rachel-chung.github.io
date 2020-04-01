@@ -1,19 +1,19 @@
 
 <p style="font-size:25px;">Hello! I'm Rachel Chung and I'm excited to <b> snack. </b> </p>
 
- <p style="font-size:23px;"> <i> Projects  </i> </p>
+ <p style="font-size:30px;"> <i> Projects  </i> </p>
 
  <p style="font-size:23px;"> [Governor Cuomo Tweets Analysis](/Cuomo_Twitter) </p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Text mining and analysis on 10-days of tweets around Governor Cuomo.
 
-[Project 2 Title](/TL_Cleaning)
+ <p style="font-size:23px;"> [Project 2 Title](/TL_Cleaning)  </p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Data cleaning and management on 500-pages of a Byzantium history book.
 
-[Project 3 Title](/TL_Other)
+ <p style="font-size:23px;"> [Project 3 Title](/TL_Other)  </p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Merging data sets without unique IDs for a Byzantium history book.
