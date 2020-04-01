@@ -3,17 +3,17 @@ Hello! I'm Rachel Chung and I'm excited to snack.
 
  *Projects*
 
-[Governor Cuomo Tweets Analysis](/sample_page)
+[Governor Cuomo Tweets Analysis](/Cuomo)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Text mining and analysis on 10-days of tweets around Governor Cuomo.
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/TL_Cleaning)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Data cleaning and management on 500-pages of a Byzantium history book.
 
-[Project 3 Title](http://example.com/)
+[Project 3 Title](/TL_Other)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Merging data sets without unique IDs for a Byzantium history book.
