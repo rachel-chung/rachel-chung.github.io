@@ -8,7 +8,7 @@
 
 Text mining and analysis on 10-days of tweets around Governor Cuomo.
 
- <p style="font-size:23px;"> [Project 2 Title](/TL_Cleaning)  </p>
+ <p style="font-size:23px;"> <a href="TL_Cleaning.html"> Project 2 Title </p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Data cleaning and management on 500-pages of a Byzantium history book.
@@ -19,5 +19,7 @@ Data cleaning and management on 500-pages of a Byzantium history book.
 Merging data sets without unique IDs for a Byzantium history book.
 
 ---
-<p style="font-size:14px; font-family: Verdana">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:14px; ">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
+<p style="font-size:14px;">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
