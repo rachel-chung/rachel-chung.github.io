@@ -1,7 +1,7 @@
 
 Hello! I'm Rachel Chung and I'm excited to snack.
 
- **Projects**
+ *Projects*
 
 [Governor Cuomo Tweets Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
