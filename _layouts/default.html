@@ -16,7 +16,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo"/>
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p id="nav-text">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -70,10 +70,14 @@
       #Projects {
         font-size: 20px;
       }
-      a {
-        color: black;
+      #nav-text {
         text-align: center;
       }
+
+      a {
+        color: black;
+      }
+
     </style>
   </body>
 </html>
