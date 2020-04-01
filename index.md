@@ -1,9 +1,9 @@
 
-<p style="color:red;">Hello! I'm Rachel Chung and I'm excited to snack.</p>
+<p style="font-size:25px;">Hello! I'm Rachel Chung and I'm excited to snack.</p>
 
- *Projects*
+ <p style="font-size:20px;"> *Projects* </p>
 
-[Governor Cuomo Tweets Analysis](/Cuomo)
+ <p style="font-size:20px;"> [Governor Cuomo Tweets Analysis](/Cuomo_Twitter) </p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Text mining and analysis on 10-days of tweets around Governor Cuomo.
