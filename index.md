@@ -1,6 +1,5 @@
 
-<span style="font-family:Comfortaa; font-size:14em;"> Hello! I'm Rachel Chung and I'm excited to snack.</span>
-
+<span style="font-family:Comfortaa; font-size:2em; color: black"> Hello! I'm Rachel Chung and I'm excited to snack.</span>
 ---
 
 **Projects**
