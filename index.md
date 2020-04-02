@@ -24,4 +24,7 @@ Merging data sets without unique IDs for a Byzantium history book.
 
 ---
 
+<a href = "mailto: schung02@wesleyan.edu "> Contact info: schung02@wesleyan.edu</a>
+
+
 <!-- <p style="font-size:14px;">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
