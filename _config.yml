@@ -1,5 +1,5 @@
 title:  # your name (or website title) here
-<a href="_config.yml"> "/images/logo.png?raw=true" </a> # your photo (or logo) here
+logo: <a href="_config.yml"> "/images/logo.png?raw=true" </a> # your photo (or logo) here
 
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
