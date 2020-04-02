@@ -1,7 +1,7 @@
 
 <p style="font-size:25px;">Hello! I'm Rachel Chung and I'm excited to <b> snack. </b> </p>
 
- <p style="font-size:30px;"> <i> Projects  </i> </p>
+ <p style="font-size:30px;"> <b> Projects  </b> </p>
 
  <p style="font-size:23px;"> <a href="Cuomo_Twitter.html"> Project 1 Title </a> </p>
 
@@ -23,8 +23,6 @@ Data cleaning and management on 500-pages of a Byzantium history book.
 Merging data sets without unique IDs for a Byzantium history book.
 
 ---
-
-<a href = "mailto: schung02@wesleyan.edu "> Contact info: schung02@wesleyan.edu</a>
-
+<p style="font-size:16px;"> <a href="mailto: schung02@wesleyan.edu"> Contact info: schung02@wesleyan.edu </a> </p>
 
 <!-- <p style="font-size:14px;">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
