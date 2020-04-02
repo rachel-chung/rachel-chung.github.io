@@ -1,4 +1,4 @@
-<p style="font-size:23px;"> <a href="Cuomo_Twitter.html"> Project 1 Title </a> </p>
+<p style="font-size:23px;"> Project 1 Title </p>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
