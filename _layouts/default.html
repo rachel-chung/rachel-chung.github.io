@@ -13,15 +13,14 @@
       <header>
 
         {% if site.logo %}
-        <br>
-        <div>
+        <div id="logo-div">
           <a href="https://rachel-chung.github.io"><img src="{{site.logo | relative_url}}" alt="Logo"/></a>
         </div>
         {% endif %}
 
-        <br>
-
-        <p id="nav-text">{{ site.description | default: site.github.project_tagline }}</p>
+        <div id="nav-div">
+          <p id="nav-text">{{ site.description | default: site.github.project_tagline }}</p>
+        </div>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -60,7 +59,7 @@
     {% endif %}
     <style>
       body {
-        font-family: "Calibri Light","Geneva","Tahoma","Verdana","Calibri","Sans-Serif";
+        font-family: "Geneva","Tahoma","Verdana","Calibri","Sans-Serif";
         font-size: 16px;
         color: black;
       }
@@ -74,6 +73,11 @@
         float: left;
         position: fixed;
       }
+
+      #nav-div {
+        padding-top: 10px;
+      }
+
       #nav-text {
         text-align: center;
       }
