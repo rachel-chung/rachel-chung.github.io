@@ -1,6 +1,8 @@
 
 <!--  <p style="font-size:25px;"> </p>
 
+My picture: "/images/logo.png?raw=true"
+
  <p style="font-size:30px;"> <b> Projects  </b> </p>
 
  <p style="font-size:23px;"> <a href="Cuomo_Twitter.html"> Project 1 Title </a> </p>
