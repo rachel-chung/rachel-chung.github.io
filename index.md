@@ -1,11 +1,11 @@
 
-<p style="font-size:25px;"> </p>
+<!--  <p style="font-size:25px;"> </p>
 
  <p style="font-size:30px;"> <b> Projects  </b> </p>
 
  <p style="font-size:23px;"> <a href="Cuomo_Twitter.html"> Project 1 Title </a> </p>
 
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/>-->
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Analyzing tweets about New York Governor Cuomo during the 2017 New York Democratic Primary.
 
