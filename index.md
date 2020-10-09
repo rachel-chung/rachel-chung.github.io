@@ -1,5 +1,4 @@
-
-<!--  <p style="font-size:25px;"> </p>
+<p style="font-size:25px;"> </p>
 
 My picture: "/images/logo.png?raw=true"
 
@@ -21,11 +20,10 @@ Data cleaning and management on 500-pages of a Byzantium history book.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-
 Merging data sets without unique IDs for a Byzantium history book.
 
 ---
 
 <p style="font-size:16px;"> <a href="mailto: schung02@wesleyan.edu"> Contact info: schung02@wesleyan.edu </a> </p>
 
-<!-- <p style="font-size:14px;">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
+<p style="font-size:14px;">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
