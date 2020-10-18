@@ -2,15 +2,15 @@ title:  # your name (or website title) here
 logo:  # your photo (or logo) here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <img src="images/profile.png?raw=true"/>
+  <img src="images/profile.png?raw=true"/> <a href="Cuomo_Twitter.html"> Project 1 Title </a> 
   <br><br>
   <a href ="file:///C|/Desktop\Github_Resume.pdf"> Email </a>
   <br><br>
   <a href="https://www.linkedin.com/in/example/"> Resume </a>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/"> LinkedIn </a>
+  <img src="images/LI.png?raw=true"/> <a href="https://www.linkedin.com/in/example/"> LinkedIn </a>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/"> GitHub </a>
+  <img src="images/github.png?raw=true"/> <a href="https://www.linkedin.com/in/example/"> GitHub </a>
 
 
-theme: jekyll-theme-minimal
+

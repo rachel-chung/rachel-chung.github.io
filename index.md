@@ -2,16 +2,7 @@
 
  <p style="font-size:30px;"> <b> Projects  </b> </p>
 
-div {
-    display: inline-block;
-    width: 200px;
-    height: 100px;
-    margin: 1em;
-}
-
  <p style="font-size:23px;"> <a href="Cuomo_Twitter.html"> Project 1 Title </a> </p>
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Analyzing tweets about New York Governor Cuomo during the 2017 New York Democratic Primary.
 
@@ -29,5 +20,6 @@ Merging data sets without unique IDs for a Byzantium history book.
 
  <p style="font-size:30px;"> <b> Posts  </b> </p>
 
-theme: jekyll-theme-minimal
+Theme: jekyll-theme-minimal
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
 <p style="font-size:14px;">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
