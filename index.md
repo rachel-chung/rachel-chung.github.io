@@ -1,7 +1,13 @@
 <p style="font-size:25px; font-family: Roboto"> </p>
-My picture: "/images/logo.png?raw=true"
 
  <p style="font-size:30px;"> <b> Projects  </b> </p>
+
+div { 
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  margin: 1em;
+}
 
  <p style="font-size:23px;"> <a href="Cuomo_Twitter.html"> Project 1 Title </a> </p>
 
@@ -21,8 +27,5 @@ Data cleaning and management on 500-pages of a Byzantium history book.
 
 Merging data sets without unique IDs for a Byzantium history book.
 
----
-
-<p style="font-size:16px;"> <a href="mailto: schung02@wesleyan.edu"> Contact info: schung02@wesleyan.edu </a> </p>
-
+theme: jekyll-theme-minimal
 <p style="font-size:14px;">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
