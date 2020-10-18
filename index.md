@@ -2,11 +2,11 @@
 
  <p style="font-size:30px;"> <b> Projects  </b> </p>
 
-div { 
-  display: inline-block;
-  width: 200px;
-  height: 100px;
-  margin: 1em;
+div {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
 }
 
  <p style="font-size:23px;"> <a href="Cuomo_Twitter.html"> Project 1 Title </a> </p>
